@@ -1,2 +1,3 @@
-# git-practice
-git 操作的练习仓库
+# Git和GitHub练习地
+
+——熟练使用 Git，GitHub。
