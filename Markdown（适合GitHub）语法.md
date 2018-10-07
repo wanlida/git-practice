@@ -3,9 +3,9 @@
 <!-- TOC -->
 
 - [一、编程学习](#一、编程学习)
-  - [1.2 Java编程](#1.2 Java编程)
-    - [1.2.1 Java基础](#1.2.1 Java基础)
-    - [1.2.2 JavaWeb](#1.2.2 JavaWeb)
+  - [Java编程](#1.2 Java编程)
+    - [Java基础](#1.2.1 Java基础)
+    - [JavaWeb](#1.2.2 JavaWeb)
 - [二、编程之外](#二、编程之外)
 
 <!-- /TOC -->
@@ -42,7 +42,7 @@
 
 哈哈哈哈哈
 
-### 1.2 Java编程
+### Java编程
 
 哈哈哈哈哈
 
@@ -60,7 +60,7 @@
 
 哈哈哈哈哈
 
-#### 1.2.1 Java基础
+#### Java基础
 
 <details><summary><b>示例：Hello World 程序</b></summary> 
 
@@ -72,9 +72,7 @@ public class Hello{
 }
 ```
 
-
-
-哈哈哈哈哈
+注：折腾效果——`<details><summary><b>示例：Hello World 程序</b></summary> `
 
 哈哈哈哈哈
 
@@ -86,9 +84,11 @@ public class Hello{
 
 哈哈哈哈哈
 
+哈哈哈哈哈
 
 
-#### 1.2.2 JavaWeb
+
+#### JavaWeb
 
 哈哈哈哈哈
 
