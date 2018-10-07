@@ -65,6 +65,18 @@ public class Hello{
 
 哈哈哈哈哈
 
+<details>在看一个示例 Python 程序：
+
+``` python
+import tensorflow as tf
+a = tf.constant(2.0)
+print(a)
+```
+
+</details>
+
+注：`<details>在看一个示例 Python 程序：Hello 程序...</deta>`
+
 #### Java基础
 
 哈哈哈哈哈
