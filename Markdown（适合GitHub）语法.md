@@ -2,10 +2,11 @@ Index
 ---
 <!-- TOC -->
 
-- [编程学习](#cnn-的基本特征)
-  - [Java编程](#动机)
-  	- [Java基础](#Java基础)
-- [编程之外](#卷积的内部实现)
+- [编程学习](#编程学习)
+  - [Java编程](#Java-编程)
+    - [Java基础](#Java基础)
+  - [2.2 Python编程](#Python编程)
+- [编程之外](#编程之外)
 
 <!-- /TOC -->
 
@@ -44,8 +45,6 @@ Index
 
 哈哈哈哈哈
 
-#### Java基础
-
 <details><summary><b>示例：Hello World 程序</b></summary> 
 
 ``` java
@@ -58,23 +57,15 @@ public class Hello{
 
 </details>
 
+
+
 注：折腾效果——`<details><summary><b>示例：Hello World 程序</b></summary> ......代码 </details> `
 
 哈哈哈哈哈
 
 哈哈哈哈哈
 
-哈哈哈哈哈
-
-哈哈哈哈哈
-
-哈哈哈哈哈
-
-哈哈哈哈哈
-
-
-
-#### JavaWeb
+#### Java基础
 
 哈哈哈哈哈
 
@@ -84,6 +75,14 @@ public class Hello{
 
 哈哈哈哈哈
 
+
+
+### Python编程
+
+哈哈哈哈哈
+
+哈哈哈哈哈
+
 哈哈哈哈哈
 
 哈哈哈哈哈
@@ -91,6 +90,12 @@ public class Hello{
 哈哈哈哈哈
 
 哈哈哈哈哈
+
+哈哈哈哈哈
+
+哈哈哈哈哈
+
+
 
 ## 编程之外
 
