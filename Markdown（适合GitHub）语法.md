@@ -2,16 +2,16 @@
 
 <!-- TOC -->
 
-- [一、编程学习](#一、编程学习)
+- [编程学习](#编程学习)
   - [Java编程](#Java编程)
     - [Java基础](#Java基础)
     - [JavaWeb](#JavaWeb)
-- [二、编程之外](#二、编程之外)
+- [编程之外](#编程之外)
 
 <!-- /TOC -->
 
 
-## 一、编程学习
+## 编程学习
 
 哈哈哈哈哈
 
@@ -57,7 +57,9 @@ public class Hello{
 }
 ```
 
-注：折腾效果——`<details><summary><b>示例：Hello World 程序</b></summary> `
+</details>
+
+注：折腾效果——`<details><summary><b>示例：Hello World 程序</b></summary> ......代码 </details> `
 
 哈哈哈哈哈
 
@@ -91,7 +93,7 @@ public class Hello{
 
 哈哈哈哈哈
 
-## 二、编程之外
+## 编程之外
 
 编程之外，嘻嘻嘻
 
