@@ -3,8 +3,8 @@ Index
 <!-- TOC -->
 
 - [编程学习](#编程学习)
-  - [Java编程](#Java-编程)
-    - [Java基础](#Java基础)
+  - [Java编程](#Java编程)
+    - [Java基础](#Java-基础)
   - [2.2 Python编程](#Python编程)
 - [编程之外](#编程之外)
 
